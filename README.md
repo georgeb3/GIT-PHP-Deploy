@@ -1,4 +1,4 @@
 GIT-PHP-Deploy
 ==============
 
-Manual or automatic deploy of your web-server code using a PHP script
+Manual or automatic deployment of your web-server code using a PHP script and GITHub.
